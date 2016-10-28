@@ -26,6 +26,9 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/keyboard_height"
         android:background="@android:color/transparent"
-        android:visibility="gone" />
+        android:visibility="gone" 
+        android:orientation="horizontal">
+        
+    </LinearLayout>>
 
 </LinearLayout>
